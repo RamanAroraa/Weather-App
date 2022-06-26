@@ -1,6 +1,6 @@
 <h1>Weather App</h1>
 <p>In this app, you can get the weather details of a particular city by entering the city name. You can also get your current location weather details by clicking on the "Get Device Location" button. You'll get many weather details including temperature in celsius, weather conditions, location, feels like, wind, and humidity.</p>
-<a href="http://127.0.0.1:5501/" target="_blank">Live Demo</a>
+<a href="https://62b8762ae2b07658fc3ddf2b--extraordinary-biscuit-62b81f.netlify.app/" target="_blank">Live Demo</a>
 <br>
 <br>
 <h2>How to start using Weather API</h2>
