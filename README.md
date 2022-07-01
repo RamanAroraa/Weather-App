@@ -3,6 +3,4 @@
 <a href="https://62b87739232bc30008b847ec--ramanarora.netlify.app/" target="_blank">Live Demo</a>
 <br>
 <br>
-<h2>How to start using Weather API</h2>
-<p align="justify">If you want to start using Free or paid weather API, please read <a href="/appid">‘How to start and operate with API more efficiently’</a>.</p>
 
